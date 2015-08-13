@@ -17,8 +17,6 @@
             <p><?= h($user->username) ?></p>
             <h6 class="subheader"><?= __('Email') ?></h6>
             <p><?= h($user->email) ?></p>
-            <h6 class="subheader"><?= __('Password') ?></h6>
-            <p><?= h($user->password) ?></p>
             <h6 class="subheader"><?= __('Role') ?></h6>
             <p><?= h($user->role) ?></p>
         </div>
