@@ -7,4 +7,6 @@ Visitor allow to:
 Admin allow to:
 - CRUD operations with all entities: Categories, Tags, Vacancies, Users, Applications
 
+Database Schema in /Config/Migrations
 
+Screen: http://joxi.ru/5mdG1QPH7w6pr1
